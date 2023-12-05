@@ -11,8 +11,8 @@ git clone `https://github.com/nataliehodnett/Data-Processing-and-Storage.git`
 `cd Data-Processing-And-Storage`
 
 ### Compile and Run:
-`g++ -o InMemoryDB InMemoryDB.cpp`
+`g++ -o DataProcessing dataprocessing.cpp`
 Run the compiled program:
-`./InMemoryDB`
+`./DataProcessing`
 
 Follow instructions provided by the code, it should be interactive
